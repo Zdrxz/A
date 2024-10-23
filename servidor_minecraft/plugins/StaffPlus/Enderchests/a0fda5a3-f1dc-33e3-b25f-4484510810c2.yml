@@ -1,0 +1,19 @@
+a0fda5a3-f1dc-33e3-b25f-4484510810c2:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SOPHISTICATEDBACKPACKS_DIAMOND_BACKPACK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAA/+NiYGBm4MvMK0vNK8kvqgzOyS8pZmBgyOFi4CpKzUtJLfLMS8vnZOApLUgvSkxJ9SxJzS3mAipg5WBgykxh4M3NzEtNLkpMK7FKzCxiZGB1zi/NK2FkGChZBm4GnuT8vBKgb4pDS4EKGRhYImZu9ti/xl1upyhnedsem2nMcN/AfMvKAAB4xOiLBwEAAA==
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: ENCHANTED_GOLDEN_APPLE
+    amount: 36
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOLDEN_CARROT
+    amount: 64
